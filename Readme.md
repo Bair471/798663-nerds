@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Баир Ширнэнгийн](https://up.htmlacademy.ru/htmlcss/21/user/798663).
-* Наставник: [Владислав Молчанов] (https://github.com/vmolchanov).
+* Наставник: [Владислав Молчанов](https://github.com/vmolchanov).
 
 ---
 
